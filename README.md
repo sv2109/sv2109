@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sv2109
 - 👀 I’m interested in programming, sports, reading, yoga and metitation
-- 🌱 I’m currently learning JavaScript, Node.js, Next.js, React, Shopify etc.
+- 🌱 I’m currently learning Laravel, Livewire, Blade, Alpine.js, PHP, JavaScript
 - 💞️ I’m looking to collaborate on projects based on what I'm learning right now
 - 📫 How to reach me sv2109@gmail.com
 
