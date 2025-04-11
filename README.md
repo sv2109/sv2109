@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @sv2109
-- 👀 I’m interested in programming, sports, reading, yoga and metitation
-- 🌱 I’m currently learning Laravel, Livewire, Blade, Alpine.js, PHP, JavaScript
-- 💞️ I’m looking to collaborate on projects based on what I'm learning right now
-- 📫 How to reach me sv2109@gmail.com
+# 👋 Hello! I'm @sv2109
 
-<!---
-sv2109/sv2109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile — glad you're here!  
+
+## 👨‍💻 About Me
+
+- 💼 I'm a PHP developer with over 15 years of experience  
+- 🛒 I’ve been working with **OpenCart** for 10+ years: developing extensions, creating custom functionality, fixing bugs, and more  
+- 🌱 Currently diving deeper into the **Laravel ecosystem**:  
+  `Laravel` · `Livewire` · `Blade` · `Alpine.js` · `PHP` · `JavaScript`  
+- 📚 I’m passionate about clean code, learning modern tools, and growing as a developer  
+- 💡 I’m open to **collaborating** on Laravel-based or educational projects  
+
+## ⚡ Fun Facts
+
+- 🧘 I practice **yoga** and **meditation** regularly  
+- 🚴 I love **cycling** — riding my bike is my favorite way to relax and explore  
+- 📖 I enjoy **reading** — especially books with a psychological or philosophical twist  
+
+## 🌍 Let's Connect
+
+- 📬 Email: [sv2109@gmail.com](mailto:sv2109@gmail.com)  
+- 🌐 Website: [sv2109.com](https://sv2109.com)  
+- 📘 Facebook: [facebook.com/sv2109](https://www.facebook.com/sv2109)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sv2109&show_icons=true&theme=github_dark&hide=contribs&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv2109&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
