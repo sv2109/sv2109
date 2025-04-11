@@ -28,8 +28,6 @@ Welcome to my GitHub profile — glad you're here!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sv2109&show_icons=true&theme=github_dark&hide=contribs&count_private=true" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv2109&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
